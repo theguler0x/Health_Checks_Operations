@@ -1,2 +1,2 @@
 # Windows_health Checks
-All Server Health Operations
+All Server/Client Health Operations
