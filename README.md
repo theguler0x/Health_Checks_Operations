@@ -1,2 +1,2 @@
-# Windows_healthCheck
+# Windows_health Checks
 All Server Health Operations
