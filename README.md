@@ -1,13 +1,13 @@
 # Windows_health Checks
 All Server/Client Health Operations
 
-# Available
+# Available - Mevcut
 - Active Directory -DC
 - Exchange Server
 - DHCP Server
 
 
-# Coming soon
+# Coming soon - Yakında gelecek
 - DNS Server
 - File and Storage Services
 - Print and Document Services
