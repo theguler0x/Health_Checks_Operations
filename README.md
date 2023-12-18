@@ -14,4 +14,5 @@ All Server/Client Health Operations
 - Web Server IIS
 - Volume Activation Services
 - Hyper-V
+- Windows Server Update Services (WSUS)
 - 
