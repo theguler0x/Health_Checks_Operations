@@ -2,12 +2,16 @@
 All Server/Client Health Operations
 
 # Available
-- Active Directory AD Check
-- Exchange Server Check
-- DHCP Server Check
+- Active Directory -DC
+- Exchange Server
+- DHCP Server
 
 
 # Coming soon
-- DNS
-- File  Server
+- DNS Server
+- File and Storage Services
+- Print and Document Services
+- Web Server IIS
+- Volume Activation Services
+- Hyper-V
 - 
